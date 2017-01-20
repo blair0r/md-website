@@ -53,7 +53,7 @@ Example:
 
 #### Model
 
-The Razor directive `@model` may be used to specify a type that will be used for a model property, which can be used to pass data in to the template. It will cause a simple pubic get/set property called Model to be added to the generated class.
+The Razor directive `@model` may be used to specify a type that will be used for a model property, which can be used to pass data in to the template. It will cause a simple public get/set property called Model to be added to the generated class.
 
 Example:
 
